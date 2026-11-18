@@ -42,6 +42,7 @@ Length: 23 pages / 8,204 words (English final draft).
 | --- | --- |
 | `thesis/thesis_en.docx` | English final thesis — authoritative layout |
 | `thesis/thesis_zh.docx` | 中文终稿 — authoritative layout |
+| `Thesis.pdf` | 23-page PDF rendition of the English final thesis |
 | `thesis/thesis_en.md`, `thesis/thesis_zh.md` | Plain-text renditions for convenient web browsing; equation and table rendering may differ |
 | `figures/*.png` | Six figures produced for the paper |
 | `data/survey_data.xlsx` | Field survey table (station-exit level) |
@@ -50,9 +51,12 @@ Length: 23 pages / 8,204 words (English final draft).
 | `src/crowd_flow.py` | Passenger-flow aggregation example |
 | `requirements.txt` | Optional dependencies for re-running the analysis |
 | `docs/LICENSE-NOTES.md` | Licence scope and notes on excluded material |
-| \thesis/Thesis.pdf` | 23-page PDF rendition of the English final thesis |
 
-**On the PDF**: \thesis/Thesis.pdf` is a 23-page PDF rendition regenerated from the sanitised English DOCX. Its cover page carries only the author name `Jason Han`; the original document metadata (author nickname, WPS creator and precise export timestamps) has been removed. The DOCX files remain the authoritative versions for layout and citation.
+**On the PDF**: `Thesis.pdf` is a 23-page PDF rendition regenerated
+from the sanitised English DOCX. Its cover page carries only the author name
+`Jason Han`; the original document metadata (author nickname, WPS creator and
+precise export timestamps) has been removed. The DOCX files remain the
+authoritative versions for layout and citation.
 
 ## Data / 数据说明
 
