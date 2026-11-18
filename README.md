@@ -50,11 +50,9 @@ Length: 23 pages / 8,204 words (English final draft).
 | `src/crowd_flow.py` | Passenger-flow aggregation example |
 | `requirements.txt` | Optional dependencies for re-running the analysis |
 | `docs/LICENSE-NOTES.md` | Licence scope and notes on excluded material |
+| \thesis/Thesis.pdf` | 23-page PDF rendition of the English final thesis |
 
-**On the PDF**: no PDF is distributed in this repository at present. The
-original WPS export carried personal identifying information on its cover page;
-a regenerated version may be added after re-export from the desensitised DOCX.
-The DOCX files are the authoritative versions.
+**On the PDF**: \thesis/Thesis.pdf` is a 23-page PDF rendition regenerated from the sanitised English DOCX. Its cover page carries only the author name `Jason Han`; the original document metadata (author nickname, WPS creator and precise export timestamps) has been removed. The DOCX files remain the authoritative versions for layout and citation.
 
 ## Data / 数据说明
 
