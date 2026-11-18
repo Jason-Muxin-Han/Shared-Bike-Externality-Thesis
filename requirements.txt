@@ -1,0 +1,8 @@
+# Optional dependencies — only needed to re-run the analysis or regenerate
+# figures. Every published artefact (DOCX, Markdown, PNG, XLSX) is already
+# included in this repository, so nothing here is required just to read it.
+pandas>=2.2
+matplotlib>=3.8
+openpyxl>=3.1
+python-docx>=1.1
+lxml>=5.2
